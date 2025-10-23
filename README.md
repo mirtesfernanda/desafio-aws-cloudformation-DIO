@@ -135,5 +135,5 @@ Resources:
 ---
 
 ## 👨‍💻 Autor
-Desenvolvido por **[Seu Nome Aqui]**  
+Desenvolvido por **MIRTES FERNANDA DUTRA DA SILVA.**  
 Desafio da **Digital Innovation One (DIO)** — *Implementando Infraestrutura Automatizada com AWS CloudFormation*.
